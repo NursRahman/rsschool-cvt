@@ -16,9 +16,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Skills
  PL SQL, HTML, CSS, JavaScript, ReactJS
 ## Languages
- German - Elementary
- English - Pre-intermediate
- Russian - Intermediate
- Turkish - Upper-intermediate
- Kyrgyz - Advanced
+ >German - Elementary
+ >English - Pre-intermediate
+ >Russian - Intermediate
+ >Turkish - Upper-intermediate
+ >Kyrgyz - Advanced
 
