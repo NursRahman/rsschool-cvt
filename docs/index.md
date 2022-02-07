@@ -15,10 +15,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  Kyrgyz Investment and Credit Bank (2017-2021)
 ## Skills
  PL SQL, HTML, CSS, JavaScript, ReactJS
-## Languages
- >German - Elementary
- >English - Pre-intermediate
- >Russian - Intermediate
- >Turkish - Upper-intermediate
- >Kyrgyz - Advanced
+## Languages  
+German - Elementary  English - Pre-intermediate  Russian - Intermediate  Turkish - Upper-intermediate  Kyrgyz - Advanced
 
