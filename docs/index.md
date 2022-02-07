@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nursultan Mederbek uulu
 
 You can use the [editor on GitHub](https://github.com/NursRahman/rsschool-cv/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
